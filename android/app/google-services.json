@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "179454860656",
+    "firebase_url": "https://flutter-mochat.firebaseio.com",
+    "project_id": "flutter-mochat",
+    "storage_bucket": "flutter-mochat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179454860656:android:1e1e505c7ef53ec09bc3b5",
+        "android_client_info": {
+          "package_name": "com.codeowl.fluttermochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179454860656-j4mjqnts5eq8lu3tsd8ophb2qn8v71v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUs91P4mi8wiFCdMT0aCmlSRIhmv-bfoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179454860656-j4mjqnts5eq8lu3tsd8ophb2qn8v71v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
